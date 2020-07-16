@@ -1,5 +1,7 @@
 # The Impact of the Novel Coronavirus Disease 2019 on the ASEAN Foreign Exchange Rate and Air Quality: Jan 2020 to April 2020.
-By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore) | Date: 27th Apirl 2020
+Date: 29 April 2020
+
+By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)
 
 ## Abstract 
 
