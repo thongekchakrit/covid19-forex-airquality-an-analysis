@@ -114,8 +114,9 @@ Looking at the graph above, we can see that the highest confirmed cases belonged
 
 This graph does not, however, tell us which countries were the first to detect the virus.The question we can ask next was which country was the first to detect the virus on their shore. To best represent this, I think an animated bar graph would best satisfy the condition.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig2_p2.gif">
-
+<p align="center">
+  <img width="1170" height="495" src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig2_p2.gif">
+</p>
 
 **The first Country to detect the virus on her shore**
 
