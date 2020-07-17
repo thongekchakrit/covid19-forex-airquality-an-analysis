@@ -20,26 +20,7 @@ In this study, the impact of COVID-19 on ASEAN foreign exchange were analyzed. I
 
 ### Exploratory Data Analysis (EDA) Questions
 
-The goal of EDA questions is to help us understand our data, here we will set the initial questions for us to answer in order to gain more knowledge on the data.
-
-1. The COVID-19 Pandemic January to April 2020 
-    - Which ASEAN member had the highest number of confirmed case of COVID-19?
-2. The exchange rate of ASEAN members
-    - What were the exchange rates before COVID-19 Pandemic?
-3. Air quality in ASEAN countries
-    - How was the air quality before COVID-19 Pandemic?
-    
-### Research Question
-
-1. What was the impact of COVID-19 on ASEAN foreign exchange rate and air quality?
-
-__Terms__
-
-ASEAN: The association of Southeast Asian Nation is a regional grouping that consists of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
-
-### Exploratory Data Analysis (EDA) Questions
-
-The goal of EDA questions is to help us understand our data, here we will set the initial questions for us to answer in order to gain more knowledge on the data.
+The goal of EDA questions were to help us understand our data, below are the explorative questions.
 
 1. The COVID-19 Pandemic January to April 2020 
     * Which ASEAN member had the highest number of confirmed case of COVID-19?
@@ -60,13 +41,13 @@ ASEAN: The association of Southeast Asian Nation is a regional grouping that con
 
 **2.1. Data Sources**
 
-The datasets used in this study has been gathered from many sources. There are 3 main datasets used, (i) The COVID-19 dataset, (ii) the foreign exchange dataset, and (iii) air quality dataset. The breakdown of sources and methods of extraction are listed below.
+The datasets used in this study had been gathered from many sources. There were 3 main datasets used, (i) The COVID-19 dataset, (ii) the foreign exchange dataset, and (iii) air quality dataset. The breakdown of sources and methods of extraction are listed below.
 
-COVID-19 Dataset. Data extraction method: Data imported using API
+COVID-19 Dataset. Data extraction method: Data were imported using an API
  - [COVID-19 Dataset]( https://pkgstore.datahub.io/core/covid-19/time-series-19-covid-combined_json/data/875416425fff342abbd7a1fc258e14f8/time-series-19-covid-combined_json.json) (January 22, 2020 to April 13, 2020)
  
  
-Foreign Exchange Rates Dataset (USD / ASEAS countries). Data extraction method: Webscrapping of data from website
+Foreign Exchange Rates Dataset (USD / ASEAS countries). Data extraction method: Webscrapping of data from yahoo finance
  - [Brunei]( https://finance.yahoo.com/quote/BND%3DX/history?period1=1549065600&period2=1586736000&interval=1d&filter=history&frequency=1d) (Feb 2nd, 2019 to April 13, 2020)
  - [Cambodia]( https://finance.yahoo.com/quote/KHR%3DX/history?period1=1549065600&period2=1586736000&interval=1d&filter=history&frequency=1d) (Feb 2nd, 2019 to April 13, 2020)
  - [Indonesia]( https://finance.yahoo.com/quote/IDR%3DX/history?period1=1549065600&period2=1586736000&interval=1d&filter=history&frequency=1d) (Feb 2nd, 2019 to April 13, 2020)
@@ -85,7 +66,7 @@ Air Quality Dataset. Data extraction method: Import data from CSV file
 In response to the questions above, data wrangling and exploratory data analysis was performed in an attempt to analyze the datasets. The following modules was throughout this study: Pandas, numpy, seaborn, matplotlib, matplotlib.pyplot, folium, json, plotly express, request, prettyprint and beautifulsoup.
  
 ```
-The steps taken for data wrangling has been left out. 
+The steps taken for data wrangling had been left out. 
 
 The full process can be found using the link at the end of essay.
 ```
