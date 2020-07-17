@@ -52,7 +52,7 @@ The goal of EDA questions is to help us understand our data, here we will set th
 
 1. What was the impact of COVID-19 on ASEAN foreign exchange rate and air quality?
 
-__Terms__
+__Term__
 
 ASEAN: The association of Southeast Asian Nation is a regional grouping that consists of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
 
@@ -343,7 +343,7 @@ Similarly to Singapore, Thailand factories remained operational, hence, the redu
 
 Philippines on the other hand saw an improvement in air pollution, similarly to China, was likely due to the closures of factories and businesses as Philippines enter lockdown. 
 
-## 4. CONCLUSION
+## 3. CONCLUSION
 
 Key findings:
 1. The top 5 countries with the highest confirmed cases of COVID-19 was Indonesia, Philippines, Malaysia, Singapore, and Thailand
