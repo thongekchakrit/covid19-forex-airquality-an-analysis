@@ -313,7 +313,7 @@ According to Ong (2020) Philippine peso was defying the global rout due to inves
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig16_p2.png">
 
-**3.4.2. The relationship between the number of confirmed cases and PM10 pollutant**
+**The relationship between the number of confirmed cases and PM10 pollutant**
 
 - There was no correlation between China, Indonesia and Singapore PM10 concentration to the number of confirmed cases of COVID-19 infection. 
 - There was a moderate degree of negative correlation of Philipines PM10 to her number of confirmed cases of COVID-19 infections.
@@ -323,7 +323,7 @@ According to Ong (2020) Philippine peso was defying the global rout due to inves
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig17_p2.png">
 
-**3.4.3. The relationship between the number of confirmed cases and AQI and PM2.5**
+**The relationship between the number of confirmed cases and AQI and PM2.5**
 
 - There was no correlation between Malaysia AQI concentration and Malaysia number of confirmed COVID-19 cases.
 - There was a strong positive correlation between China AQI concentration and PM2.5 concentration.
