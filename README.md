@@ -20,7 +20,7 @@ In this study, the impact of COVID-19 on ASEAN foreign exchange were analyzed. I
 
 ### Exploratory Data Analysis (EDA) Questions
 
-The goal of EDA questions were to help us understand our data, below are the explorative questions.
+The goal of EDA questions was to help us understand our data, below are the explorative questions.
 
 1. The COVID-19 Pandemic January to April 2020 
     * Which ASEAN member had the highest number of confirmed case of COVID-19?
