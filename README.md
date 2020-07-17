@@ -226,7 +226,7 @@ Before we drive deeper into the relationship between the forex exchange and COVI
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig9_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig10_p2.png">
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig10_p2.PNG">
 Image Source: https://aqicn.org/scale/
 
 **Figure 10. Air Quality Index Scale and Color Legend**
@@ -237,7 +237,7 @@ The mean PM2.5, PM10 and AQI for China from 30th December 2019 to 13th April 202
 
 Considering the air quality index scale, China on average had an unhealthy level of PM2.5, moderate level of PM10 and AQI.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig11_p2.png">
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig11_p2.PNG">
 
 **The trend of air quality index in China and Malaysia from 31st December 2019 to 13th April 2020**
 
@@ -247,7 +247,7 @@ On 16th February, China saw the lowest recorded concentration of AQI at 25.25μg
 
 Malaysia, on the other hand, had a constant AQI trend throughout the period, which was roughly around 45μg/m3 at a healthy level. Malaysia on the 18th of March 2020 (Tashy, 2020) had suspended non-essential operations such as the operation of small businesses and factories. Looking at Figure 11, the trend after 18th March remained the same at a healthy level.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig12_p2.png">
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig12_p2.PNG">
 
 PM10 is an inhalable particulate matter which is less than 10 micrometers in diameter and it has a known association with various diseases such as lung cancer and respiratory impairment (Hoek et al., 2012). The result of our study showed no obvious trend in PM10 distribution in Indonesia, Singapore, and the Philippines. In these countries, the trend of PM10 concentration was consistent throughout the recorded period. Thailand and China, on the other hand, have a weak downward trend as we move towards the right of the graph. We could see a drop in PM10 concentration after 28th February in Thailand and January 25th for China.
 
