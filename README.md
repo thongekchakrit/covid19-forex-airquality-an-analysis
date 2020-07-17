@@ -274,7 +274,7 @@ The highest PM10 and PM2.5 concentrations recorded during this period was 630μg
 
 Looking at Figure 13 A, B and C, it was evident that the air quality in Thailand were heavily influence by burning of crops after harvesting season, wild fire and forest fire. Perhaps the improvement in air quality shown in Figure 12 were due to the actions of the local authorities in combating the fires instead of COVID-19 pandemic.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig14_p2.png">
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig14_p2.PNG">
 
 PM2.5 has been revealed by scientists having a significant correlation to respiratory morbidity and mortality(Brunekreef & Holgate, 2002). In the European Union, it was found that PM2.5 decreased the average life of those affected by 8.6 months(Orru et al., 2011; Xing, Xu, Shi, & Lian, 2016). Hence, it is important to access the concentration of PM2.5. 
 
