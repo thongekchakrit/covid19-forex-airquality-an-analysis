@@ -227,6 +227,7 @@ Before we drive deeper into the relationship between the forex exchange and COVI
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig9_p2.png">
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig10_p2.PNG">
+
 Image Source: https://aqicn.org/scale/
 
 **Figure 10. Air Quality Index Scale and Color Legend**
