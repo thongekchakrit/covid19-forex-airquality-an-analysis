@@ -389,4 +389,4 @@ In summary, due to the COVID-19 pandemic, the prices of Singapore, Indonesia, Ma
 
 ## Code
 
-* [Link to code](https://github.com/thongekchakrit/life-expectancy-SG/blob/master/notebook/The_Effect_of_Rising_Life_Expectancy.ipynb)
+* [Link to code](https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/notebook/Impact%20of%20COVID-19%20on%20Air%20Quality%20and%20foreign%20exchange%20rate%20in%20ASEAN%20countries.ipynb)
