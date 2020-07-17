@@ -56,7 +56,7 @@ __Term__
 
 ASEAN: The association of Southeast Asian Nation is a regional grouping that consists of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
 
-## 2. Methodology and EDA 
+## 2. Methodology
 
 **2.1. Data Sources**
 
@@ -90,7 +90,7 @@ The steps taken for data wrangling has been left out.
 The full process can be found using the link at the end of essay.
 ```
 
-**2.1.1. Data Acquisition and Data Wrangling**
+**2.2. Data Acquisition and Data Wrangling**
 
 Firstly, the COVID-19 dataset mentioned in section 2.1. was imported using an API. Next, dataframe was generated from JSON and irrelevant data was removed and columns were renamed and rearranged. Then, the data containing ASEAN countries and changed 'Date' into datatime format.
 
@@ -98,13 +98,13 @@ Next, the Foreign Exchange Rate was scrapped from Yahoo Finance. To do so, we be
 
 Following the data acquisition from Yahoo finance, the air quality dataset was imported from the CSV file. Next the countries of interest were selected and the variables were formatted to suit the data structure.
 
-**2.2. Exploratory Data Analysis**
+## 3. Exploratory Data Analysis
 
 In order for us to gain insights to the impact of COVID-19 on ASEAN foreign exchange rate and air quality, we will start off by answering a few research questions in the exploratory analysis section. During the exploratory data analysis, we will create more questions to aid us in analyzing the datasets.
 
 Here an attempt to explore the data was made, we started off by answering the initial questions mentioned in section 1 (Exploratory Analysis Questions).
 
-**2.2.1. Covid-19 Pandemic January to April 2020**
+**3.1. Covid-19 Pandemic January to April 2020**
 
 In this section, we aimed to find the country with the highest number of COVID cases. This question was meant to help us gather more information on the dataset before deeper analysis could be performed.
 
@@ -152,7 +152,7 @@ The percentage of deaths caused by COVID-19 pandemic in Singapore was less than 
 
 Following the EDA of COVID-19 dataset, we worked shift our focus to the forex exchange.
 
-**2.2.2. The exchange rates of Indonesia, Malaysia, Philippines, Singapore and Thailand**
+**3.2. The exchange rates of Indonesia, Malaysia, Philippines, Singapore and Thailand**
 
 In this section, we started off by looking at how these ASEAN currencies were doing prior to the COVID-19 pandemic. This question was meant to help us gather more information on the dataset before deeper analysis can be performed.
 
@@ -220,7 +220,7 @@ The Philippines have a higher standard deviation and a bigger margin between the
 
 No actions will be taken against these outliers as removal or changing them would lead to inaccurate analysis. This was likely caused by an external event, which could be presumably be linked to the COVID-19 pandemic.
 
-**2.2.3 Air quality in SEA**
+**3.3. Air quality in SEA**
 
 Before we drive deeper into the relationship between the forex exchange and COVID-19 pandemic, we looked at how the COVID-19 affected air quality in these ASEAN countries as countries around Asia decreased operations of factory, airports, traffic and commercial activities (Leika, 2020). We will also evaluate the air quality of China, as China was the first to suspend her factory operations due to the pandemic.
 
@@ -288,13 +288,13 @@ Thailand was in partial lock-down since 26th March 2020 (Rogovin, 2020), however
 
 In China, it was clear that the pandemic had caused a reduction in air pollution. In Figure 11, after the 25th of January,  the concentration thereafter of AQI dropped below 200μg/m3. In addition, after the 2nd of February, the highest PM2.5 concentrations China saw was below 120μg/m3. China also saw a reduction in PM10 concentration during the period.
 
-**2.3. The impact of COVID-19 on ASEAN foreign exchange rate and air quality**
+**3.4. The impact of COVID-19 on ASEAN foreign exchange rate and air quality**
 
 Here, the relationship between the COVID-19 pandemic, ASEAN foreign exchange, and air quality was performed.
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig15_p2.png">
 
-**2.3.1. Analysis, Results, and Discussion**
+**3.4.1. Analysis, Results, and Discussion**
 - There was a strong positive correlation between Indonesia COVID-19 confirmed cases and Indonesia rupiah depreciation. 
 - There was a moderate positive correlation between Singapore COVID-19 confirmed cases and Singapore dollar depreciation. 
 - There was a strong positive correlation between Thailand COVID-19 confirmed cases and Thai baht depreciation.
@@ -313,7 +313,7 @@ According to Ong (2020) Philippine peso was defying the global rout due to inves
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig16_p2.png">
 
-**2.3.2. The relationship between the number of confirmed cases and PM10 pollutant**
+**3.4.2. The relationship between the number of confirmed cases and PM10 pollutant**
 
 - There was no correlation between China, Indonesia and Singapore PM10 concentration to the number of confirmed cases of COVID-19 infection. 
 - There was a moderate degree of negative correlation of Philipines PM10 to her number of confirmed cases of COVID-19 infections.
@@ -323,7 +323,7 @@ According to Ong (2020) Philippine peso was defying the global rout due to inves
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig17_p2.png">
 
-**2.3.3. The relationship between the number of confirmed cases and AQI and PM2.5**
+**3.4.3. The relationship between the number of confirmed cases and AQI and PM2.5**
 
 - There was no correlation between Malaysia AQI concentration and Malaysia number of confirmed COVID-19 cases.
 - There was a strong positive correlation between China AQI concentration and PM2.5 concentration.
@@ -365,7 +365,7 @@ Key findings:
 
 In summary, due to the COVID-19 pandemic, the prices of Singapore, Indonesia, Malaysia, and Thailand depreciated against the US dollar. This was likely caused by a loss of confidence in the Asian Market. The currency of the Philippines, on the other hand, appreciated against the US dollar as investors shifted from the stock exchange to governmental bonds due to their higher yield. Thailand and the Philippines like China saw an improvement in air quality in April. However, unlike China and the Philippines, the cause of improvement in air quality in Thailand was most likely linked to her authorities' actions on subduing wildfire, burning of crops and forest fire. Philippines and China both saw an improvement in air quality and the improvement is most likely linked to the suspension of factories, commercial services, and lockdown amid the pandemic. Unlike the rest of the country, Indonesia saw a positive correlation between air pollution and COVID-19 confirmed cases, and this might be due to Indonesia 'fire season' where locals use fire to clear land for agriculture.
 
-## 5. REFERENCES
+## 4. REFERENCES
 
 1. Ayittey, F., Ayittey, M., Chiwero, N., Kamasah, J., & Dzuvor, C. (2020). Economic Impacts of Wuhan 2019‐nCoV on China and the World. Journal of Medical Virology, 92. doi:10.1002/jmv.25706
 2. Brunekreef, B., & Holgate, S. T. (2002). Air pollution and health. The Lancet, 360(9341), 1233-1242. Retrieved from https://doi.org/10.1016/S0140-6736(02)11274-8. doi:10.1016/S0140-6736(02)11274-8
