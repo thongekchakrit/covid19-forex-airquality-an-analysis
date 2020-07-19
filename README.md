@@ -85,7 +85,7 @@ Following the data acquisition from Yahoo finance, the air quality dataset was i
 
 ## 3. Exploratory Data Analysis and Results
 
-In order for us to gain insights to the impact of COVID-19 on ASEAN foreign exchange rate and air quality, we will start off by answering a few research questions in the exploratory analysis section. During the exploratory data analysis, we will create more questions to aid us in analyzing the datasets.
+In order for us to gain insight to the impact of COVID-19 on ASEAN foreign exchange rate and air quality, we will start off by answering a few research questions in the exploratory analysis section. During the exploratory data analysis, we will create more questions to aid us in analyzing the datasets.
 
 Here an attempt to explore the data was made, we started off by answering the initial questions mentioned in section 1 (Exploratory Analysis Questions).
 
