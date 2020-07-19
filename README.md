@@ -4,7 +4,7 @@ Date: 29 April 2020
 By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)
 
 ```
-Live code can be found in "notebook" folder
+My codes can be found in "notebook" folder
 ```
 
 ## Abstract 
