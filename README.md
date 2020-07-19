@@ -3,6 +3,10 @@ Date: 29 April 2020
 
 By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)
 
+```
+Live code can be found in "notebook" folder
+```
+
 ## Abstract 
 
 The global outbreak of the COVID-19 had caused countries to lose millions as businesses, tourism, and supply chains were disrupted. These effects can be seen as the global stock market plunged and during this time of crisis, many have sought a silver lining, and countries from around the world have reported obvious improvement in air quality. However, the effect on every country is different. 
