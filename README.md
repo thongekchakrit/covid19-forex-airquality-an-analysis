@@ -11,7 +11,7 @@ Live code can be found in "notebook" folder
 
 The global outbreak of the COVID-19 had caused countries to lose millions as businesses, tourism, and supply chains were disrupted. These effects can be seen as the global stock market plunged and during this time of crisis, many have sought a silver lining, and countries from around the world have reported obvious improvement in air quality. However, the effect on every country is different. 
 
-In this study, the impact of COVID-19 pandemic on ASEAN foreign exchange rate and air quality were examined. Our result showed that due to the pandemic, there was a depreciation in Singapore, Indonesia, Malaysia, and Thailand's currencies against the US dollars, while Philippines peso appreciated against the later as investors shifted to governmental bonds. Singapore and Malaysia saw no improvement in air quality, while Thailand and the Philippines saw an improvement in their air quality starting in April 2020. However, the improvement in Thailand's air quality was most likely unlinked to the pandemic while the Philippines was. Indonesia amongst the other country may see a worsening effect on their air quality as she enters her 'fire season' unless actions are taken against the burning of crops.
+In this study, the impact of COVID-19 pandemic on ASEAN foreign exchange rate and air quality were examined. Our result shows that there was a depreciation in Singapore, Indonesia, Malaysia, and Thailand's currencies against the US dollars, while Philippines peso appreciated against the later as investors shifted to governmental bonds. Singapore and Malaysia saw no improvement in their air quality, while Thailand and the Philippines saw an improvement in early April. However, the improvement in Thailand's air quality was most likely unlinked to the pandemic while the Philippines was. The air quality in Indonesia may worsen as she enters her 'fire season' in April, unless actions are taken against by the governement.
 
 ## 1. Introduction
 
@@ -67,7 +67,7 @@ Foreign Exchange Rates Dataset (USD / ASEAS countries). Data extraction method: 
 Air Quality Dataset. Data extraction method: Import data from CSV file
  - [Air Quality Open Data Platform]( https://aqicn.org/data-platform/covid19/) (December 30, 2020 to April 13, 2020)
  
-In response to the questions above, data wrangling and exploratory data analysis was performed in an attempt to analyze the datasets. The following modules was throughout this study: Pandas, numpy, seaborn, matplotlib, matplotlib.pyplot, folium, json, plotly express, request, prettyprint and beautifulsoup.
+In response to the questions above, data wrangling and exploratory data analysis were performed in an attempt to analyze the datasets. The following modules were throughout this study: Pandas, numpy, seaborn, matplotlib, matplotlib.pyplot, folium, json, plotly express, request, prettyprint and beautifulsoup.
  
 ```
 The steps taken for data wrangling had been left out. 
